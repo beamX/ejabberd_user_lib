@@ -1,0 +1,4 @@
+ebin/
+deps/
+.erlang.mk
+ejb_user.d
