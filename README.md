@@ -1,7 +1,7 @@
 # Ejabberd user lib
 
 Ejabberd allows user registeration using http i.e.  `mod_register_web.erl`. 
-The requests sent for user operation has been abscracted out to this code.
+The requests sent for user operation have been abstracted out to this code.
 
 
 ## Usage
